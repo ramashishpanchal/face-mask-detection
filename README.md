@@ -39,31 +39,4 @@ Using a pretrained CNN model (VGG16/ResNet50), the system extracts rich facial f
 ---
 
 
-
----
-
-## 🖥️ How to Run Locally
-
-```bash
-# Clone the repository
-git clone https://github.com/ramashishpanchal/face-mask-detection
-cd face-mask-detection
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run Streamlit app
-streamlit run app.py
-
-
-## Run with docker
-
-# Pull image from Docker Hub
-docker pull ramashishpanchal/face-mask:v3
-
-# Run container
-docker run -p 8501:8501 ramashishpanchal/face-mask:v3
-
-
-## 📂 Directory Structure
-
+## Docker Hub Image: https://hub.docker.com/r/ramashishpanchal/face-mask/tags
