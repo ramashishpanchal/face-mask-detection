@@ -39,4 +39,4 @@ Using a pretrained CNN model (VGG16/ResNet50), the system extracts rich facial f
 ---
 
 
-## Docker Hub Image: https://hub.docker.com/r/ramashishpanchal/face-mask/tags
+Docker Hub Image: https://hub.docker.com/r/ramashishpanchal/face-mask/tags
