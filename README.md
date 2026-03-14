@@ -39,4 +39,6 @@ Using a pretrained CNN model (VGG16/ResNet50), the system extracts rich facial f
 ---
 
 
+Kaggle Notebook: https://www.kaggle.com/code/ramashishpanchal/face-mask-detection-transfer-learning
 Docker Hub Image: https://hub.docker.com/r/ramashishpanchal/face-mask/tags
+
